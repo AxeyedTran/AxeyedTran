@@ -1,4 +1,4 @@
-### Hi there, I'm AxeyedKha ( Dino Duck )
+### Hi there, I'm Axeyed Tran ( Dino Duck )
 ## I'm a Programmer
 - Best Friend @Thant William
 - Favourite: I like play Piano, ...
