@@ -3,7 +3,7 @@
 - Best Friend @Thant William
 - Favourite: Coding, Remix Music And So on ...
 ### Connect With Me:
-</br></b></br> <br>[[![Github](https://img.shields.io/badge/Github-[HUNTERBOY_ALAMIN]-blue?style=flat-square&logo=GITHUBlogoColor=blue&labelColor=blue)](https://github.com/AxeyedTranthub](https://img.shields.io/badge/TELEGRAM-[HUNTERBOY_ALAMIN]-red?style=flat-square&logo=TELEGRAMlogoColor=red&labelColor=cyan)](https://t.me/alamin123khan)]<br> [_[![Facebook](https://img.shields.io/badge/Facebook-HUNTERBOY_ALAMIN]-yellow?style=flat-square&logo=facebooklogoColor=green&labelColor=red)](https://www.facebook.com/Axeyed.Tran191)_]<br><b>
+
 <br />
 <p align="center"><a href="https://github.com/AxeyedTran">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AxeyedTran&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
