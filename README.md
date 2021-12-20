@@ -8,11 +8,11 @@ Axeyed Tran:
 <br>
 <a href="https://facebook.com/Axeyed.Tran191"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=black" alt="Facebook"></a>
 <br>
-Tran Bao kha
+Tran Bao kha:
 <br>
 <a href="https://facebook.com/tranbaokha.190109"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=black" alt="Facebook"></a>
 <br>
-### Achievement :
+## Achievement :
 <br />
 <p align="center"><a href="https://github.com/AxeyedTran">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AxeyedTran&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
