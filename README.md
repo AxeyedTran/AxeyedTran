@@ -16,10 +16,7 @@
 <a href="https://github.com/AxeyedTran"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxeyedTran&layout=compact&theme=react&hide_border=true" />
 </a></p>
 <h3><b><i>Github Statistics :</i></b></h3>
-<a href="https://github.com/htr-tech"><img width=550 src="https://github-profile-trophy.vercel.app/?username=htr-tech&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
-
-<h3><b><i>Profile Statistics :</i></b></h3>
-<a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=htr-tech&color=blueviolet&style=flat-square"></a>
+<a href="https://github.com/AxeyedTran"><img width=550 src="https://github-profile-trophy.vercel.app/?username=AxeyedTran&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 ### Profile Viewers
 
