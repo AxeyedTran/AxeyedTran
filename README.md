@@ -3,7 +3,7 @@
 - Best Friend @Thant William
 - Favourite: Coding, Remix Music And So on ...
 ### Connect With Me:
-<a href="https://facebook.com/Axeyed.Tran191"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook"></a>
+<a href="https://facebook.com/Axeyed.Tran191"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=black" alt="Facebook"></a>
 ### Achievement :
 <br />
 <p align="center"><a href="https://github.com/AxeyedTran">
