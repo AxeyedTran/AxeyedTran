@@ -3,10 +3,8 @@
 - Best Friend @Thant William
 - Favourite: Coding, Remix Music And So on ...
 ### Connect With Me:
-<br>
-[[![Github](https://img.shields.io/badge/Github-[AxeyedTran]-blue?style=flat-square&logo=GITHUBlogoColor=blue&labelColor=blue)](https://github.com/AxeyedTran)]
-<br>
-### Achievement:
+
+### Achievement :
 <br />
 <p align="center"><a href="https://github.com/AxeyedTran">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AxeyedTran&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
