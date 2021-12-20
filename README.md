@@ -10,10 +10,11 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 <br />
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AxeyedTran&show_icons=true&locale=en&layout=compact" alt="AXEYEDKHA" /></p
-<br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AxeyedTran&show_icons=true&locale=en" alt="AXEYEDKHA" /></p>
-<br />
+<p align="center"><a href="https://github.com/htr-tech">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AxeyedTran&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/AxeyedTran"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxeyedTran&layout=compact&theme=react&hide_border=true" />
+</a></p>
 ## Profile Viewers
 
 ![PROFILE VIEWERS](https://gpvc.arturio.dev/AxeyedTran) 
