@@ -1,4 +1,4 @@
-### Hi there, I'm Axeyed Tran ( Tran Bao Kha )
+### Hello , I'm Axeyed Tran ( Tran Bao Kha )
 ## I'm a Programmer
 - Best Friend @Thant William
 - Favourite: Coding, Remix Music =)) And So on ...
