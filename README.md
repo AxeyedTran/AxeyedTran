@@ -22,7 +22,5 @@ Tran Bao kha:
 <h3><b><i>Github Statistics :</i></b></h3>
 <a href="https://github.com/AxeyedTran"><img width=550 src="https://github-profile-trophy.vercel.app/?username=AxeyedTran&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-### Profile Viewers :
-
-<a href="https://github.com/AxeyedTran"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=AxeyedTran&color=blueviolet&style=flat-square"></a>
+### Thank You For Visiting My Page :)
 
