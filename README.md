@@ -24,5 +24,5 @@ Tran Bao kha:
 
 ### Profile Viewers :
 
-<a href="https://github.com/AxeyedTran"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=AxeyedTran&color=bluewhite&style=flat-square"></a>
+<a href="https://github.com/AxeyedTran"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=AxeyedTran&color=blueviolet&style=flat-square"></a>
 
