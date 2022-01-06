@@ -24,5 +24,5 @@ Tran Bao kha:
 
 ### Profile Viewers :
 
-![PROFILE VIEWERS](https://gpvc.arturio.dev/AxeyedTran) 
+<a href="https://github.com/AxeyedTran"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=AxeyedTran&color=bluewhite&style=flat-square"></a>
 
