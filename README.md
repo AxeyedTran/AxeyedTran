@@ -1,6 +1,6 @@
 ### Hello , I'm Axeyed Tran ( Tran Bao Kha )
 ## I'm a Programmer
-- Best Friend @Thant William
+- Skills: html, css, js, php, python, java, sql
 - Favourite: Coding, Remix Music And So on ...
 ### Connect With Me:
 <br>
