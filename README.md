@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Thant William, Dung Dung and Ngo Minh Hoang**
 
-- 👨‍💻 My Portfolia Link [https://tranbaokha.space](https://tranbaokha.space)
+- 👨‍💻 My Portfolio Link [https://tranbaokha.space](https://tranbaokha.space)
 
 - 💬 Ask me about **Contact me 😆**
 
