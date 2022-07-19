@@ -21,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/khatran191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khatran191" height="30" width="40" /></a>
 <a href="https://discord.gg/AxeyedTran#0206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AxeyedTran#0206" height="30" width="40" /></a>
 <a href="https://tranbaokha.space" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="tranbaokha.space" height="30" width="40" /></a>
 </p>
@@ -32,5 +31,5 @@
 <p align="center"><a href="https://github.com/AxeyedTran">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AxeyedTran&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/htr-tech"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxeyedTran&layout=compact&theme=react&hide_border=true" />
+<a href="https://github.com/AxeyedTran"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxeyedTran&layout=compact&theme=react&hide_border=true" />
 </a></p>
